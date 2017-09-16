@@ -1,5 +1,3 @@
 Git is a version control system.
 Git is free software.
 Git third.
-Git fouth.
-Git fifth.
