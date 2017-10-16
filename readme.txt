@@ -6,9 +6,6 @@ Git create file in dev.
 Greate a new branch named feature1
 Create a new time
 last time
-<<<<<<< HEAD
 conflict in master
-=======
 conflict in fearture1
->>>>>>> feature1
 save in test
