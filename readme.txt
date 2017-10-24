@@ -1,2 +1,3 @@
-Git is a version control system.
-Git is free software.
+-rw-rw-r-- 1 mszmqp mszmqp 0 10月 20 07:07 readme.txt
+-rw-rw-r-- 1 mszmqp mszmqp 55 10月 20 07:07 readme.txt
+-rw-rw-r-- 1 mszmqp mszmqp 111 10月 20 07:08 readme.txt
